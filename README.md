@@ -21,4 +21,4 @@ Zeycial is a clean and stylish login/logout UI built with HTML and CSS, featurin
 Open `index.html` to access the login screen. After logging out (simulated), you can link it to `logout.html` to show the logout screen.
 
 Designed with 💜 by CALEB DAINI 
-CEO, PEALDAN TECH
+ CEO, PEALDAN TECH
